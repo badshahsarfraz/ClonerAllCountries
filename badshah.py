@@ -55,9 +55,9 @@ logo = """
 \033[1;93m    | (__| | (_) | | | |___) | |   
 \033[1;93m     \___|_|\___/|_| |_|____/|_|   
 \033[1;93m🔥╭╬──────────────────────────────────╬╮🔥
-\033[0;94m  ⚡ ✯ 𝕮𝖗𝖊𝖆𝖙𝖔𝖗 ✪ 𝕸𝖗.𝕽𝖆𝖓𝖆 𝕬𝖆𝖍𝖎𝖑   ✬⚡
-\033[0;94m  ⚡ ✯ 𝖄𝖔𝖚𝖙𝖚𝖇𝖊 ✪ Aahil Creations ✬⚡
-\033[0;97m  ⚡ ✯ 𝕴𝖒 𝖓ø𝖙 𝖗𝖊𝖘𝖕𝖔𝖓𝖘𝖎𝖇𝖑𝖊 𝖋𝖔𝖗 𝖆𝖓𝖞 𝖒𝖎𝖘𝖘 𝖚𝖘𝖊 ✬⚡
+\033[0;94m  ⚡ ✯ Creater ✪ Mr.Sarfraz Badshah   ✬⚡
+\033[0;94m  ⚡ ✯ Youtube ✪ Fb Tips & Tricks ✬⚡
+\033[0;97m  ⚡ ✯ I am not responsible for any mis use ✬⚡
 \033[1;93m🔥╰╬──────────────────────────────────╬╯🔥 """
                                                 
 def tik():
@@ -77,25 +77,24 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print  """
-\033[1;97m                   _      _  _ 
-\033[1;97m      /\          | |    (_)| | VIRSON 0.2⚡
-\033[1;97m     /  \    __ _ | |__   _ | |
-\033[1;97m    / /\ \  / _` || '_ \ | || |
-\033[1;97m   / ____ \| (_| || | | || || |
-\033[1;97m  /_/    \_\\__,_||_|  |_||_||_|"""
-
-jalan("\033[1;96m•◈•────────────•◈•\033[1;99mAahil\033[1;99m•◈•────────────•◈•")                        
+\033[1;96m╔══╗─────╔╗──╔╗────╔╗   Updated ⭐⚡
+\033[1;96m║╔╗║─────║║──║║────║║
+\033[1;96m║╚╝╚╦══╦═╝╠══╣╚═╦══╣╚═╗
+\033[1;96m║╔═╗║╔╗║╔╗║══╣╔╗║╔╗║╔╗║
+\033[1;96m║╚═╝║╔╗║╚╝╠══║║║║╔╗║║║║
+\033[1;96m╚═══╩╝╚╩══╩══╩╝╚╩╝╚╩╝╚╝
+jalan("\033[1;96m•◈•────────────•◈•\033[1;99mSarfraz\033[1;99m•◈•────────────•◈•")                        
 jalan("\033[1;96m  ___ _    __   __  _  ___  ___ ")  
 jalan("\033[1;96m / _/| |  /__\ |  \| || __|| _ \ CLONE ALL COUNTRY")
 jalan("\033[1;96m| \__| |_| \/ || | ' || _| | v / ") 
 jalan("\033[1;96m \__/|___|\__/ |_|\__||___||_|_\ ") 
 jalan("\033[1;97m INDIAN USER USE ANY PROXY TO CLONE")
 jalan("\033[1;97m WIFI USER USE ANY PROXY TO CLONE")
-jalan("\033[1;93m Welcome to Aahil Creations")
-jalan("\033[1;96m•◈•──────────•◈•\033[1;96mBlacktiger\033[1;96m•◈•──────────•◈•")
+jalan("\033[1;93m Welcome to Sarfraz Badshah Creations")
+jalan("\033[1;96m•◈•──────────•◈•\033[1;96Fb Tips & Tricks\033[1;96m•◈•──────────•◈•")
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "badshah"
+CorrectPassword = "Badshah"
 
 loop = 'true'
 while (loop == 'true'):
@@ -103,15 +102,15 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;97m🗝 \x1b[1;95mENTER PASSWORD\x1b[1;97m»» \x1b[1;97m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:RANA
+            print "Logged in successfully as " + username #Dev:badshah
 	    time.sleep(2)
             loop = 'false'
         else:
             print "\033[1;96mWrong Password"
-            os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+            os.system('xdg-open https://www.youtube.com/channel/UC0hAMP0ye2H5Ygs1e2oP0EA')
     else:
         print "\033[1;96mWrong Username"
-        os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open https://www.youtube.com/channel/UC0hAMP0ye2H5Ygs1e2oP0EA')
 
 def login():
 	os.system('clear')
@@ -205,7 +204,7 @@ def menu():
 	print "   \033[1;36;40m      ║\033[1;36;40m[*] Subs\033[1;34;40m: "+sub+"                      \033[1;36;40m║"
 	print "   \033[1;36;40m      ╚═════════════════════════════════╝"
 	print "\033[1;32;40m[1] \033[1;33;41mHack The World"	
-	print "\033[1;32;40m[2] \033[1;33;42mUpdate Aahil"																														
+	print "\033[1;32;40m[2] \033[1;33;42mUpdate Sarfraz Badshah"																														
 	print "\033[1;32;40m[0] \033[1;33;43mLog out"
 	pilih()
 	
